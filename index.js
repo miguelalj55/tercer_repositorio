@@ -17,6 +17,7 @@ estoy aqui
   return(
     <><div>home</div>
     <p>hola mundo</p>
+    <p>miguelon</p>
     <button onClick={addItem}/></>
   )
 
